@@ -1,1 +1,1 @@
-### Practicing Git Hub Commands with sandeep
+### Practicing Git Hub Commands with krish naik
