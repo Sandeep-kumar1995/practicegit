@@ -1,7 +1,5 @@
-def multiplication(a,b,c):
-    
-a = 2
-b = 3
-c = 2
+def addition(a,b):
+return a+b
 
-return(a*b*c)
+def substraction(c,d):
+    return c-d
