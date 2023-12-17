@@ -9,3 +9,4 @@ Hash ka use text ko Bold karne ke liye kiya jata hai
 [add] > for adding
 [commit] > 
 [push]
+#git init cammand ka use new folder ko git repository me le jane ke liye use kiya jata hai
